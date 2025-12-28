@@ -106,7 +106,41 @@ Conjunto de Disponibilidade de VMS:
     * a segurança do DNS do AZ baseia-se no gerenciador de recursos do AZ, habilitando o controle de acesso baseado em função e o monitoramento e o registro em log. 
     * Facilidade de uso para gerenciar seus recursos externos com um único serviço.
     * As rede virtuais personalizaveis que permitem que use nomes de domínio privados e totalmente personalizados em suas redes virtuais privadas. 
-    
+
+# Armazenamento no Azure
+   Redundância de Armazenamento:
+
+  * LRS (armazenamento com redundância local) -> Implantação: Datacenter individual na região priária -> Durabilidade 11 noves; 
+  * ZRS (armazenamento com redundância de zona) -> Implantação de três zonas de disponibilidade na região primária -> 12noves;
+  * GRS (armazenamento com redundância geográfica) -> Implantação Datacenter único no primário e região secundária -> Durabilidade 16 noves;
+  * GZRS (armazenamento com redundância de zona geográfica) -> Implantação de três zonas de disponibilidade na região primária e um único datacenter na região secundária -> 16 noves;
+
+  Migração para o Azure
+
+   * Plataforma de migração unificada;
+   * Intervalo de ferramentas integradas e autônomas;
+   * Avaliação e migração;
+
+  OBS: o Azure Data Box auxilia a realizar migração, movendo até 80TB de dados do datacenter local e migrando para nuvem.
+
+  Opções de gerenciamento de arquivos
+
+   * AzCopy: 
+     -> Utilitátio de linha de comando;
+     -> Copiar blobs ou arquivos de ou para sua conta de armazenamento;
+     -> Sincronização em uma direção.
+
+   * Gerenciador de Armazenamento do Azure:
+     -> Interface gráfica do usuário (de modo semelhante ao windows explorer);
+     -> Compatível com windows, MacOs e Linux;
+
+   * Sincronização de Arquivos do Azure:
+     -> Sincroniza os arquivos do Azure e locais de forma bidirecional;
+     -> Acamada de nuvem mantém os arquivos acessados com frequencia no local, enquanto libera espaço.
+
+
+  
+
 
  
 
