@@ -138,6 +138,43 @@ Conjunto de Disponibilidade de VMS:
      -> Sincroniza os arquivos do Azure e locais de forma bidirecional;
      -> Acamada de nuvem mantém os arquivos acessados com frequencia no local, enquanto libera espaço.
 
+# Identidade, Acesso e Segurança
+
+   * Entra ID: 
+      Serviço de gerenciamento de identidade e acesso baseado em nuvem do microsoft Azure. 
+      -> Autenticação 
+      -> logon único (SSO)
+      -> Gerenciamento de aplicativos
+      -> Negócios para Negócios (B2B)
+      -> Gerenciamento de dispositivos.
+
+   * Autenticação e Autorização
+     -> Autenticação: identifica a pessoa ou serviço buscando acesso a um recurso; solicita credenticiais de acesso legítimo; Base para criar princípios de identidade e controle de acesso seguros.
+
+     -> Autorização: Determina o nível de acesso de uma pessoa ou serviço autenticado; Define quais dados eles podem acessar e o que podem fazer com eles. 
+
+     -> Autenticação 2 fatores (MFA): Forenece segurança adicional para as identidades, exigindo dois ou mais elementos para autenticação completa. 
+
+   * Acesso Condicional
+
+     -> Associação de usuário ou grupo; local do IP; Dispositivo; Aplicativo; Detecção de risco.
+   
+   * Controle de acesso baseado em função:
+
+    -> Gerenciamento de acesso de granularidade fina; 
+    -> Divida as tarefas dentro da equipe e conceda somente a quantidade de acesso de que os usuários precisam para trabalhar;
+    -> Habilite o acesso ao portal do Azure e o controle de acosso aos recursos.
+
+  * Confiança Zero
+
+   -> Proteja os ativos onde eles estiverem com a confiança zero.
+    - Abordagem clássica: Restringe tudo a uma rede "segura"
+    - Confiança Zero: Protege os ativos em qualquer lugar com uma política central
+
+   -> Proteção completa: segurança física - Identidade de acesso - Perímetro - Rede - Computação - Aplicativo - Dados.
+
+   -> Microsoft Defender para Nuvem: é um serviço de monitoramento que fornece proteção contra ameaças nos datacenters do Azure e locais. 
+   
 
   
 
