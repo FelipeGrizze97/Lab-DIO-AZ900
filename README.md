@@ -107,7 +107,7 @@ Conjunto de Disponibilidade de VMS:
     * Facilidade de uso para gerenciar seus recursos externos com um único serviço.
     * As rede virtuais personalizaveis que permitem que use nomes de domínio privados e totalmente personalizados em suas redes virtuais privadas. 
 
-# Armazenamento no Azure
+#  Armazenamento no Azure
    Redundância de Armazenamento:
 
   * LRS (armazenamento com redundância local) -> Implantação: Datacenter individual na região priária -> Durabilidade 11 noves; 
