@@ -177,7 +177,7 @@ Conjunto de Disponibilidade de VMS:
 
 # Gerenciamento de Custos no Azure
 
- * Gerenciamento de Custos:
+ * # Gerenciamento de Custos:
   -> Calculadora de custos e preços
   -> Gerenciamento de custos e marcas
 
@@ -195,11 +195,11 @@ Conjunto de Disponibilidade de VMS:
 
   6) Assintatura: O tipo e a configuração da assintura também podem afetar o custo. Por exemplo, avalição gratuita permite explorar alguns recursos do Azure gratuitamente. 
 
-* Azure Marketplace:
+* # Azure Marketplace:
 
  Permite que os clientes encontrem, experimente, comprem e provisonem aplicativos e serviços de centenas de provedores de serviços líderes, que são todos certificados para execução no Azure. 
 
-* Calculadora de Preços:
+* # Calculadora de Preços:
 
  Ferramenta que ajuda a estimar o custo dos produtos do Azure. As opções que podem ser configuradas na calculadora preços variam entre produtos, mas as opções básicas de configuração incluem:
   - Região
@@ -209,16 +209,16 @@ Conjunto de Disponibilidade de VMS:
   - Programas e Ofertas
   - Preço de Desenvolvimento/Teste do Azure
 
-* Calculadora de Custo Total de Propriedade (TCO)
+* # Calculadora de Custo Total de Propriedade (TCO)
  - Ferramenta para estimar a economia de custos possível ao migrar para o Azure.
  - Um relatório compara os custos das infraestruturas locais com os custos de uso de produtos e serviços do Azure na nuvem.
 
-* Marcas
+* # Marcas
  - Fornecem metadados aos recursos do Azure.
  - Organizam os recursos em uma taxonomia de maneira lógica.
  - Consistem em um par nome-valor.
  - Muito úteis para reunir informações de cobrança.
- 
+
 
   
 
