@@ -174,7 +174,51 @@ Conjunto de Disponibilidade de VMS:
    -> Proteção completa: segurança física - Identidade de acesso - Perímetro - Rede - Computação - Aplicativo - Dados.
 
    -> Microsoft Defender para Nuvem: é um serviço de monitoramento que fornece proteção contra ameaças nos datacenters do Azure e locais. 
-   
+
+# Gerenciamento de Custos no Azure
+
+ * Gerenciamento de Custos:
+  -> Calculadora de custos e preços
+  -> Gerenciamento de custos e marcas
+
+  Fatores que afetam os custos:
+
+  1) Tipo de recurso: Os custos são específicos do recurso, portanto, o uso que um medidor rastreia e o número de medidores associados a um recurso, dependendo do tipo de recurso.
+
+  2) Consumo: Com um modelo pago conforme o uso, o consumo é um dos maiores geradores de custos. 
+
+  3) Manutenção: Monitorar seu volume do Azure e manter seu ambiente pode ajudá-lo a identificar e reduzir os custos que não são necessários, como ao desligar máquinas virtuais subutilizadas. 
+
+  4) Área Geográfica: O mesmo tipo de recurso pode custar valores diferentes dependendo da área geográfica, o que afeta os custos do Azure.
+
+  5) Tráfego de REde: Embora algumas transferências de dados de entrada sejam gratuitas, o custo para dados de saída ou dados entre recursos do Azure é afetado por zonas de cobrança.
+
+  6) Assintatura: O tipo e a configuração da assintura também podem afetar o custo. Por exemplo, avalição gratuita permite explorar alguns recursos do Azure gratuitamente. 
+
+* Azure Marketplace:
+
+ Permite que os clientes encontrem, experimente, comprem e provisonem aplicativos e serviços de centenas de provedores de serviços líderes, que são todos certificados para execução no Azure. 
+
+* Calculadora de Preços:
+
+ Ferramenta que ajuda a estimar o custo dos produtos do Azure. As opções que podem ser configuradas na calculadora preços variam entre produtos, mas as opções básicas de configuração incluem:
+  - Região
+  - Camada
+  - Opções de Cobrança
+  - Opções de Suporte
+  - Programas e Ofertas
+  - Preço de Desenvolvimento/Teste do Azure
+
+* Calculadora de Custo Total de Propriedade (TCO)
+ - Ferramenta para estimar a economia de custos possível ao migrar para o Azure.
+ - Um relatório compara os custos das infraestruturas locais com os custos de uso de produtos e serviços do Azure na nuvem.
+
+* Marcas
+ - Fornecem metadados aos recursos do Azure.
+ - Organizam os recursos em uma taxonomia de maneira lógica.
+ - Consistem em um par nome-valor.
+ - Muito úteis para reunir informações de cobrança.
+ 
 
   
 
