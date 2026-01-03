@@ -219,6 +219,29 @@ Conjunto de Disponibilidade de VMS:
  - Consistem em um par nome-valor.
  - Muito úteis para reunir informações de cobrança.
 
+# Governaça e Conformidade
+
+ * # Blueprints, Políticas e Bloqueios de Recurso
+   
+   * Azure Policy 
+   - Ajuda a *impor* padrões organizacionais e a avaliar a conformidade em escala. Fornece governança e consistência de recursos com conformidade, segurança, custo e gerenciamento. 
+
+   - Avalia e identifica os recursos do Azure que não atendem às suas políticas.
+   - Fornece definições de políticas e iniciativas integradas, em categorias como armazenamento, rede, computação central de segurança e monitoramento. 
+
+  * Bloqueios de Recurso
+   - Proteja os recursos do Azure de exclusão ou modificação acidental.
+   - Gerenciar bloqueios na assinatura, grupo de recursos ou níveis de recursos individuais dentro do Portal do Azure.
+   OBS : Bloqueios são herdados.
+
+  * Microsoft Purview
+   - Uma família de soluções de governança, risco e conformidade de dados que ajuda você a obter uma única exibição unificada em seus dados. O Microsoft Purview reúne insights sobre seus dados locais, multinuvem e de software como serviço. 
+    - Descoberta de dados automatizada
+    - Classificação de dados confidenciais
+    - Linhagem de dados de ponta a ponta
+
+
+
 
   
 
