@@ -240,7 +240,20 @@ Conjunto de Disponibilidade de VMS:
     - Classificação de dados confidenciais
     - Linhagem de dados de ponta a ponta
 
+# Ferramentas de Implementação de Recurso
 
+  - Azure ARC: gerenciamento de recursos que não estão dentro do Azure. (extensão do gerenciamento para local, várias nuvens e borda).
+  
+  * # Azure REsourece Manager 
+   - O ARM fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura do Azure. 
+   - Modelos do ARM : São arquivos JSON que podem ser usados para criar e implantar a infraestrutura do Azure sem a necessidade de escrever comandos de programação.
+    
+    -> Sintaxe declarativa
+    -> Resultados repetíveis
+    -> Orquestração
+    -> Arquivo Modulares
+    -> Validação integrada
+    -> Código exportável
 
 
   
