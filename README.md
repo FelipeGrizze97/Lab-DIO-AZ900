@@ -255,6 +255,28 @@ Conjunto de Disponibilidade de VMS:
     -> Validação integrada
     -> Código exportável
 
+# Ferramenta de Monitoramento
+
+ * Assistente do Azure:
+  Analisa recursos implantados do Azure e faz recomendação com base nas práticas recomendadas para otimizar as implantações do Azure. 
+   tópicos importantes: 
+   -> Confiabilidade
+   -> Segurança
+   -> Desempenho
+   -> Custo
+   -> Excelência operacional
+
+  * Integridade do Serviço:
+   Exibição focada apenas nos serviços e regiões que você está usando. Se um serviço estiver enfrentando um problema em uma região que você não está usando, ele não aparecerá aqui. 
+
+   * Resource Health: 
+    Exibição personalizada dos recursos reais do Azure. Ele fornece informações sobre a integridade de seus recursos de nuvem individual. 
+
+   * Azure Monitor: 
+    Maxima a disponibilidade e o desempenho de aplicativos e serviços coletando, analisando e tomando decisões com base na telemetria da nuvem e de ambientes locais. 
+    
+
+
 
   
 
